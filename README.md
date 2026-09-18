@@ -1,6 +1,6 @@
 # Modern Arama Teknolojileri: BM25, Semantic ve Hybrid
 
-[Canlı siteyi aç](https://ismntr.github.io/-BM25-Semantic-Hybrid-Search/) (Projenin GitHub deposunun adına göre bağlantıyı güncelleyin)
+[Canlı siteyi aç]([https://ismntr.github.io/-BM25-Semantic-Hybrid-Search/](https://ismntr.github.io/-BM25--Semantic--Hybrid-Search/modern_arama_teknolojileri.html)) (Projenin GitHub deposunun adına göre bağlantıyı güncelleyin)
 
 Modern arama teknolojileri olan BM25, Semantic (Anlamsal) ve Hybrid (Hibrit) arama kavramlarını Türkçe, görsel ve etkileşimli örneklerle anlatan tek sayfalık eğitim rehberi.
 
